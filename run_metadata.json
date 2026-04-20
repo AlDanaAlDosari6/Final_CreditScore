@@ -1,0 +1,7 @@
+{
+  "rows": 1000,
+  "n_features": 20,
+  "selected_threshold": 0.44285714285714284,
+  "positive_class": "bad credit risk",
+  "method": "SMOTE + Ensemble"
+}
